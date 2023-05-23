@@ -39,6 +39,6 @@ The development process of StrEats provided valuable lessons to the team:
 ## Future Plans
 StrEats has a promising future ahead, with plans to further support and empower small businesses. The future roadmap includes:
 
-Allowing vendors to utilize data analytics derived from the app to make informed decisions and optimize their business.
-Expanding the reach of StrEats to new cities and regions, increasing the visibility of local street vendors.
+* Allowing vendors to utilize data analytics derived from the app to make informed decisions and optimize their business.
+* Expanding the reach of StrEats to new cities and regions, increasing the visibility of local street vendors.
 
