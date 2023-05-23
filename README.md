@@ -9,6 +9,7 @@ StrEats is a mobile application that aims to bridge the gap between street vendo
 * Interactive heat map to visualize vendor locations.Ability to add new vendor points, directly updating the JSON file.
 * Empowers eager entrepreneurs to enter the street vendor business.
 
+<img src="/streatsimages/streats1.png" width=30% height = 60%>
 ![screenshot](/streatsimages/streats1.png "screenshot")
 ![screenshot](/streatsimages/streats2.png "screenshot")
 ![screenshot](/streatsimages/streats3.png "screenshot")
