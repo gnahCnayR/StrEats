@@ -1,5 +1,6 @@
 # StrEats
-![Logo](/streatsimages/medium.png "logo")
+<img src="/streatsimages/medium.png" width=60% height = 30%>
+
 
 StrEats is a mobile application that aims to bridge the gap between street vendors and their potential customers in urban communities. It addresses the struggles faced by street vendors in connecting with their consumer base by providing a platform for customers to easily find details about local vendors and allowing vendors to establish an online presence.
 
@@ -10,9 +11,11 @@ StrEats is a mobile application that aims to bridge the gap between street vendo
 * Empowers eager entrepreneurs to enter the street vendor business.
 
 <img src="/streatsimages/streats1.png" width=30% height = 60%>
-![screenshot](/streatsimages/streats1.png "screenshot")
+<img src="/streatsimages/streats2.png" width=30% height = 60%>
+<img src="/streatsimages/streats3.png" width=30% height = 60%>
+<!-- ![screenshot](/streatsimages/streats1.png "screenshot")
 ![screenshot](/streatsimages/streats2.png "screenshot")
-![screenshot](/streatsimages/streats3.png "screenshot")
+![screenshot](/streatsimages/streats3.png "screenshot") -->
 
 ## Technologies Used
 StrEats was built using the following technologies:
